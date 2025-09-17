@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+psycopg2-binary
+pgvector
+sqlalchemy
+python-dotenv
+google-generativeai
+langchain-google-genai
